@@ -22,7 +22,7 @@ public void SetupTest()
 
 {
 
-FirefoxDriverService service = FirefoxDriverService.CreateDefaultService(@"/Users/rakeshprabhakaran/Project/c#/expOne/lib/", "geckodriver");
+FirefoxDriverService service = FirefoxDriverService.CreateDefaultService(@"/usr/local/bin/", "geckodriver");
 
 service.Port = 64444;
 
