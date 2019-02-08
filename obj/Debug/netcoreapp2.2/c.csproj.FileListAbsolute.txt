@@ -1,0 +1,14 @@
+/Users/mosgood/Projects/c/bin/Debug/netcoreapp2.2/c.deps.json
+/Users/mosgood/Projects/c/bin/Debug/netcoreapp2.2/c.runtimeconfig.json
+/Users/mosgood/Projects/c/bin/Debug/netcoreapp2.2/c.runtimeconfig.dev.json
+/Users/mosgood/Projects/c/bin/Debug/netcoreapp2.2/c.dll
+/Users/mosgood/Projects/c/bin/Debug/netcoreapp2.2/c.pdb
+/Users/mosgood/Projects/c/obj/Debug/netcoreapp2.2/c.csprojAssemblyReference.cache
+/Users/mosgood/Projects/c/obj/Debug/netcoreapp2.2/c.csproj.CoreCompileInputs.cache
+/Users/mosgood/Projects/c/obj/Debug/netcoreapp2.2/c.AssemblyInfoInputs.cache
+/Users/mosgood/Projects/c/obj/Debug/netcoreapp2.2/c.AssemblyInfo.cs
+/Users/mosgood/Projects/c/obj/Debug/netcoreapp2.2/c.dll
+/Users/mosgood/Projects/c/obj/Debug/netcoreapp2.2/c.pdb
+/Users/mosgood/Projects/c/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/mosgood/Projects/c/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/mosgood/Projects/c/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
